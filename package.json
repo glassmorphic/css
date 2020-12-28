@@ -1,6 +1,6 @@
 {
   "name": "glassmorphic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CSS library enabling rapid construction of glassmorphism rich UI's!",
   "main": "glassmorphic.css",
   "scripts": {
